@@ -7,7 +7,7 @@ DATA: ![data link][https://data.gov.in/catalog/district-rainfall-normal-mm-month
 
 
 ## LINE plot
-
+![stack Overflow](https://raw.githubusercontent.com/amrajak/DS-200/main/plot/line.png)
 
 ## BOX Plot
 ![stack Overflow](https://raw.githubusercontent.com/amrajak/DS-200/main/plot/box1.png)
