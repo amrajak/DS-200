@@ -6,12 +6,22 @@ Research Methods (credit:1)- Assignment
 
 ## SCATTER Plot
 ![stack Overflow](https://raw.githubusercontent.com/amrajak/DS-200/main/plot/scatter.png)
-
+#### Observation: 
+The scatter plot shows average mothly rainfall from 1951-2020 for Bangalore Rural region.
 
 ## LINE plot
 ![stack Overflow](https://raw.githubusercontent.com/amrajak/DS-200/main/plot/line.png)
+#### Observation: 
+The line plot shows average mothly rainfall from 1951-2020 for Bangalore Rural region.
 
 ## BOX Plot
 ![stack Overflow](https://raw.githubusercontent.com/amrajak/DS-200/main/plot/box1.png)
 ![stack Overflow](https://raw.githubusercontent.com/amrajak/DS-200/main/plot/box2.png)
+
+#### Observation: 
+This box plot show the average monthly rainfall in Karnataka(above) and UP(below) from the year 1951 to 2020 and how it's varies across different regions. There are more outlier in Karnataka state then in UP.
+
+
+# Acknowledgments
+Data Sources: https://data.gov.in
 
